@@ -1,0 +1,9 @@
+
+Basic CRUD example
+https://www.tutofox.com/laravel/backend-con-laravel-10-php-8-crud-api-rest-mysql/
+
+Basic JWT authentication
+https://www.laravelia.com/post/how-to-create-api-with-sanctum-authentication-in-laravel-10
+
+Repository-Service Pattern
+https://github.com/adobrovolsky97/laravel-repository-service-pattern/blob/master/src/Repositories/BaseRepository.php
